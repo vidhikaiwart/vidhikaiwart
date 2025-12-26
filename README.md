@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm vidhi kaiwart</h1>
-<h3 align="center">React Developer | MERN Stack |Always learning, building, and innovating.</h3>
+<h3 align="center">React Developer | MERN Stack | Always learning, building, and innovating.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62398.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhikaiwart&label=Profile%20views&color=0e75b6&style=flat" alt="vidhikaiwart" /> </p>
